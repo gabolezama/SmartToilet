@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JAVA" injector-id="xml">
+      <display-name>activity/@name</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("name")).withNamespace(string().equalTo("http://schemas.android.com/apk/res/android")).withParent(xmlTag().withLocalName(string().equalTo("activity")))]]></place>
+    </injection>
+  </component>
+</application>
