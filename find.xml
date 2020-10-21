@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'SmartToilet1_0'" />
+    <option name="defaultScopeName" value="Project 'SmartToilet1_0'" />
+    <option name="SEARCH_SCOPE" value="Project 'SmartToilet1_0'" />
   </component>
 </application>
